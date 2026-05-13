@@ -1,0 +1,6 @@
+{
+  "name": "my-jira-extension",
+  "version": "1.0.0",
+  "description": "Enhanced interactive Jira issue creation for Osttra environments.",
+  "mcpServers": {}
+}
