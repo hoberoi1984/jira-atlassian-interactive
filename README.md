@@ -12,7 +12,7 @@ An extension for [Gemini CLI](https://github.com/google/gemini-cli) that provide
 ## Installation
 
 ```bash
-gemini extensions install https://github.com/your-username/my-jira-extension
+gemini extensions install https://github.com/hoberoi1984/jira-atlassian-interactive
 ```
 
 ## Skills Included
