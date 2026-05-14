@@ -1,5 +1,5 @@
 {
-  "name": "my-jira-extension",
+  "name": "jira-atlassian-interactive",
   "version": "1.0.0",
   "description": "Enhanced interactive Jira issue creation for Osttra environments.",
   "mcpServers": {}
