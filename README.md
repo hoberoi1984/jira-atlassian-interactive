@@ -1,4 +1,4 @@
-# My Jira Extension
+# jira-atlassian-interactive
 
 An extension for [Gemini CLI](https://github.com/google/gemini-cli) that provides an interactive workflow for creating Jira issues with precise metadata mapping.
 
