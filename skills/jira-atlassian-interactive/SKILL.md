@@ -77,3 +77,4 @@ This skill ensures that Jira tickets are created with metadata correctly mapped 
         -   **Intelligent Plan Generation:** If "Plans" is blank, generate them based on context.
 
     -   **Description:** Keep focused on technical details, excluding metadata mapped to the fields above.
+
