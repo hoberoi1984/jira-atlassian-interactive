@@ -4,6 +4,6 @@
   "description": "Interactive Jira issue creation with specialized metadata mapping for Tasks and Changes.",
   "author": "Harbrinder Singh",
   "skills": [
-    "jira-atlassian-interactive.skill"
+    "skills/jira-atlassian-interactive.skill"
   ]
 }
