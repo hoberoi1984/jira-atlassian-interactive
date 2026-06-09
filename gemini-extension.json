@@ -1,6 +1,9 @@
 {
   "name": "jira-atlassian-interactive",
-  "version": "1.0.0",
-  "description": "Enhanced interactive Jira issue creation for Osttra environments.",
-  "mcpServers": {}
+  "version": "1.0.1",
+  "description": "Interactive Jira issue creation with specialized metadata mapping for Tasks and Changes.",
+  "author": "Harbrinder Singh",
+  "skills": [
+    "jira-atlassian-interactive.skill"
+  ]
 }
