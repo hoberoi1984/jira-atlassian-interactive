@@ -9,7 +9,7 @@ description: >
 This skill ensures that Jira tickets are created with metadata correctly mapped to specific fields, providing a streamlined experience for both Tasks and Change Requests.
 
 ## Constraints & System Interaction
-- **Remote Execution Only:** Do NOT attempt to search for, interact with, or execute any local Jira installation, local CLI tools, or local configuration files. You must assume Jira is a strictly remote service and interact with it only via the designated scripts provided by this extension or its REST API.
+- **Remote Execution Only:** Do NOT attempt to search for, interact with, or execute any local Jira installation, local CLI tools, or local configuration files. You must assume Jira is a strictly remote service and interact with it only via the designated scripts provided by this extension or its REST API. Use internal Jira site URL osttra.atlassian.net required to send the API request 
 
 ## Workflow
 
